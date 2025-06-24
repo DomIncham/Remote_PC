@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/workspaces/ros2/MobileRobotics2025/tuw_gazebo_models",
+    "git.ignoreLimitWarning": true
+}
